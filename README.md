@@ -1,9 +1,9 @@
 # PythonPackagesIntro (Distribution Package)
--This just shows how to implement packages in python with OOP principles.
--Two classes Binomial and Gaussian are inherited from the parent class Distribution. 
--It has various methods like, claculate_mean(), calculate_standardDeviation() etc. 
--A text file containing a list of data, can be read through the read_data_file() method.
--Refer the example.py file to get a small idea on how the programs work.
+* This just shows how to implement packages in python with OOP principles.
+* Two classes Binomial and Gaussian are inherited from the parent class Distribution. 
+* It has various methods like, claculate_mean(), calculate_standardDeviation() etc. 
+* A text file containing a list of data, can be read through the read_data_file() method.
+* Refer the example.py file to get a small idea on how the programs work.
 
 ## Pip installing this into your local system:
 -Before pip install make sure that you are in the same directory as that of the setup.py file.
