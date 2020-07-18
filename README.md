@@ -1,4 +1,4 @@
-# PythonPackagesIntro (Distribution Package)
+# PythonPackages (Distribution Package)
 * This just shows how to implement packages in python with OOP principles.
 * Two classes Binomial and Gaussian are inherited from the parent class Distribution. 
 * It has various methods like, claculate_mean(), calculate_standardDeviation() etc. 
@@ -14,11 +14,11 @@
 ## Pip installing to a virtual environment (Conda)
 Note: A cheat sheet has been added for your reference.
 - Open Anaconda Prompt and create a virtual env:
--   conda create --name "name of your virtual env" python=3.6
+  - conda create --name "name of your virtual env" python=3.6
 - Once that's completed activate your env:
--   conda activate "name of your virtual env"
+  - conda activate "name of your virtual env"
 - Now head on to the directory containing the setup.py in your package folder. And pip install using the following command:
--   pip install .
+  - pip install .
 Successfully built distributions
 Installing collected packages: distributions
 Successfully installed distributions-0.1
