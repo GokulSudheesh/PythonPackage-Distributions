@@ -1,5 +1,5 @@
 # PythonPackages (Distribution Package)
-* This just shows how to implement packages in python with OOP principles.
+* This just shows how to create your own packages in python with OOP principles.
 * Two classes Binomial and Gaussian are inherited from the parent class Distribution. 
 * It has various methods like, claculate_mean(), calculate_standardDeviation() etc. 
 * A text file containing a list of data, can be read through the read_data_file() method.
