@@ -13,12 +13,12 @@
 
 ## Pip installing to a virtual environment (Conda)
 Note: A cheat sheet has been added for your reference.
--Open Anaconda Prompt and create a virtual env:
---conda create --name "name of your virtual env" python=3.6
--Once that's completed activate your env:
---conda activate "name of your virtual env"
--Now head on to the directory containing the setup.py in your package folder. And pip install using the following command:
---pip install .
+- Open Anaconda Prompt and create a virtual env:
+-- conda create --name "name of your virtual env" python=3.6
+- Once that's completed activate your env:
+-- conda activate "name of your virtual env"
+- Now head on to the directory containing the setup.py in your package folder. And pip install using the following command:
+-- pip install .
 Successfully built distributions
 Installing collected packages: distributions
 Successfully installed distributions-0.1
