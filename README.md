@@ -28,6 +28,6 @@ Successfully installed distributions-0.1
 
 Please note that the name of the package is Distributions as the "init.py" file is in that directory.\
 The "init.py" tells python that the folder contains a package.\
-A package must need an "ini.py" file, even if the file is empty.
+A package should always have an "init.py" file, even if the file is empty.
 
 
