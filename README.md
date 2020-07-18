@@ -11,8 +11,8 @@ Pip looks for setup.py file during installation which contains meta data about t
 Type: [pip install .] in the terminal.
 The "." tells pip to look for the setup.py file in the current directory.
 
-Please note that the name of the package is Distributions as the __init__.py file is in that directory. 
-The __init__.py tells python that the folder contains a package.
-A package must need an __init__.py file, even if the file is empty.
+Please note that the name of the package is Distributions as the "__init__.py" file is in that directory. 
+The "__init__.py" tells python that the folder contains a package.
+A package must need an "__init__.py" file, even if the file is empty.
 
 
