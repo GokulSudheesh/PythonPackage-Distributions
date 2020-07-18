@@ -6,10 +6,10 @@
 * Refer the example.py file to get a small idea on how the programs work.
 
 ## Pip installing this into your local system:
--Before pip install make sure that you are in the same directory as that of the setup.py file.
--Pip looks for setup.py file during installation which contains meta data about the package.
--Type: [pip install .] in the terminal.
--The "." tells pip to look for the setup.py file in the current directory.
+- Before pip install make sure that you are in the same directory as that of the setup.py file.
+- Pip looks for setup.py file during installation which contains meta data about the package.
+- Type: [pip install .] in the terminal.
+- The "." tells pip to look for the setup.py file in the current directory.
 
 ## Pip installing to a virtual environment (Conda)
 Note: A cheat sheet has been added for your reference.
