@@ -22,9 +22,9 @@ Note: A cheat sheet has been added for your reference.
 
 Successfully built distributions\
 Installing collected packages: distributions\
-Successfully installed distributions-0.1\
+Successfully installed distributions-0.1
 - Now open python and check if the packages were installed:
-  - from distributions import Gaussian\
+  - from distributions import Gaussian
 
 Please note that the name of the package is Distributions as the "init.py" file is in that directory.\
 The "init.py" tells python that the folder contains a package.\
