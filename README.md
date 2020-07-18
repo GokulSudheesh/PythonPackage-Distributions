@@ -19,6 +19,7 @@ Note: A cheat sheet has been added for your reference.
   - conda activate "name of your virtual env"
 - Now head on to the directory containing the setup.py in your package folder. And pip install using the following command:
   - pip install .
+/n
 Successfully built distributions
 Installing collected packages: distributions
 Successfully installed distributions-0.1
