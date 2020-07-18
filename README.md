@@ -18,16 +18,16 @@ Note: A cheat sheet has been added for your reference.
 - Once that's completed activate your env:
   - conda activate "name of your virtual env"
 - Now head on to the directory containing the setup.py in your package folder. And pip install using the following command:
-  - pip install .
-/n
-Successfully built distributions
-Installing collected packages: distributions
-Successfully installed distributions-0.1
-Now open python and check if the packages were installed:
-  from distributions import Gaussian
+  - pip install .\
 
-Please note that the name of the package is Distributions as the "init.py" file is in that directory. 
-The "init.py" tells python that the folder contains a package.
-A package must need an "ini.py" file, even if the file is empty.
+Successfully built distributions\
+Installing collected packages: distributions\
+Successfully installed distributions-0.1\
+- Now open python and check if the packages were installed:
+  - from distributions import Gaussian\
+
+Please note that the name of the package is Distributions as the "init.py" file is in that directory.\
+The "init.py" tells python that the folder contains a package.\
+A package must need an "ini.py" file, even if the file is empty.\
 
 
