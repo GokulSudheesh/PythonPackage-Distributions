@@ -11,6 +11,9 @@ Pip looks for setup.py file during installation which contains meta data about t
 Type: [pip install .] in the terminal.
 The "." tells pip to look for the setup.py file in the current directory.
 
+## Pip installing to a virtual environment (Conda)
+Create
+
 Please note that the name of the package is Distributions as the "init.py" file is in that directory. 
 The "init.py" tells python that the folder contains a package.
 A package must need an "ini.py" file, even if the file is empty.
